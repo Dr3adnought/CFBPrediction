@@ -1,0 +1,1 @@
+Started working on this project on 8/1/25.  Using data from CollegeFootballData.com, I am trying to develop a working CFB Prediction model that will analyze past performances to help predict future performances of college football teams.
